@@ -1,1 +1,1 @@
-# Database1
+Database 1 was my introduction to SQL. The focus was on different query types, database design, and entity relationship diagrams. Some query types that were covered were SELECT, JOIN, GROUP BY, and ORDER BY. The attached files show the queries that were used for the databases that were provided in the course. Use an application like Notepad++ to view them.
